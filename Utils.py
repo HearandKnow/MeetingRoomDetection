@@ -5,7 +5,6 @@ Created on Tue Jun 16 10:48:05 2020
 @author: Jeremy
 """
 import cv2
-import numpy as np
 
 print("Utils.py loaded")
 
